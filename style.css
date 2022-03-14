@@ -21,3 +21,33 @@
 .nav-link:hover{
     border-bottom: 2px solid #fff;
 }
+.banner{
+    margin-top: 8%;
+    color: #fff;
+}
+.banner h1{
+    margin: 80px 0 50px;
+    font-weight: 600;
+    font-size: 50px;
+}
+.banner img{
+    max-height: 500px;
+}
+.banner a{
+    text-decoration: none;
+    color: #fff;
+    margin-top: 30px;
+    background: transparent;
+    padding: 12px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    width: 150px;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    display: inline-block;
+}
+.express-btn{
+    background: #fff !important;
+    color: #000 !important;
+}
